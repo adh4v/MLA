@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SpringBootCloudS1
+
+server:
+  port: 1234

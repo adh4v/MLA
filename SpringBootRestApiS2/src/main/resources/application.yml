@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SpringBootRestApi2
+      
+server:
+  port: 1235
